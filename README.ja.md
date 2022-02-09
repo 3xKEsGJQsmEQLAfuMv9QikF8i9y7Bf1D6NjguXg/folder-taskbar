@@ -8,13 +8,13 @@ Windows 11のタスクバーの補助として使用します。
 
 # インストール
 
-1. お使いの環境に合ったファイルを任意の場所に展開します。
+1. [Releases](https://github.com/3xKEsGJQsmEQLAfuMv9QikF8i9y7Bf1D6NjguXg/folder-taskbar/releases)から利用環境に合ったファイルをダウンロードします。
   - .NET Framework 4.8用
     - `FolderTaskbar_NetFW48_x.x.x.x.zip`
   - .NET 6用
     - `FolderTaskbar_NET60_x.x.x.x.zip`
-
-2. `FolderTaskbar.exe`を起動します。
+2. ダウンロードファイルを任意の場所に展開します。
+3. `FolderTaskbar.exe`を起動します。
 
 # アンインストール
 
