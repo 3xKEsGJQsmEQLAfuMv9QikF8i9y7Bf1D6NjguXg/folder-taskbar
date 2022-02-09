@@ -16,6 +16,10 @@ Use it as an adjunct to the Windows 11 taskbar.
 
 2. Launch `FolderTaskbar.exe`.
 
+# Uninstall
+
+Delete the entire extracted folder.
+
 # Usage
 
 As many buttons as there are Explorer windows will be displayed.
