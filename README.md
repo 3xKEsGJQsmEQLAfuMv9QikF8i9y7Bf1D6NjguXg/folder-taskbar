@@ -8,13 +8,13 @@ Use it as an adjunct to the Windows 11 taskbar.
 
 # Install
 
-1. Extract the files that match your environment to the desired location.
+1. Download the appropriate file for your environment from [Releases](https://github.com/3xKEsGJQsmEQLAfuMv9QikF8i9y7Bf1D6NjguXg/folder-taskbar/releases).
   - For .NET Framework 4.8
     - `FolderTaskbar_NetFW48_x.x.x.x.zip`
   - For .NET 6
     - `FolderTaskbar_NET60_x.x.x.x.zip`
-
-2. Launch `FolderTaskbar.exe`.
+2. Extract the downloaded file to a any location of your choice.
+3. Launch `FolderTaskbar.exe`.
 
 # Uninstall
 
