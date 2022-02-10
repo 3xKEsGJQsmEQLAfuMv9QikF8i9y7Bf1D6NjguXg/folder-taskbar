@@ -30,3 +30,18 @@ Press the `🌀` button to reflect the latest status. It will not be reflected a
 Press the `❌` button to exit the program.
 
 If you move the mouse cursor close to the `<-->` in the lower left corner, this window will move to another location.
+
+# Supplement
+
+You can also use it on Windows 10, but it is more comfortable to set the taskbar as follows than to use this app.
+
+| Item                       | Value                                 |
+| -------------------------- | ------------------------------------- |
+| Use small taskbar buttons  | On                                    |
+| Taskbar location on screen | `Left` or `Right`                 |
+| Combine taskbar buttons    | `When taskbar is full` or `Never` |
+
+![settings1](https://user-images.githubusercontent.com/99333667/153332132-bb9033dd-5b16-4b67-9aa5-4562250f4582.png)
+
+![taskbar](https://user-images.githubusercontent.com/99333667/153332157-812dbbe4-b695-4a6d-a667-e4a83d287914.png)
+
