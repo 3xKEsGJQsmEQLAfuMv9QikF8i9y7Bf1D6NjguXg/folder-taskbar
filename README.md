@@ -1,6 +1,6 @@
 # Folder Taskbar
 
-Lists the Explorer folder window and activates the selected one.
+Lists the folder windows that are running in Explorer and activates the selected folder.
 
 Use it as an adjunct to the Windows 11 taskbar.
 
