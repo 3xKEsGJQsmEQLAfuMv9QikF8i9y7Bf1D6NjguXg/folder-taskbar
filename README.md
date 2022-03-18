@@ -13,8 +13,9 @@ Use it as an adjunct to the Windows 11 taskbar.
     - `FolderTaskbar_NetFW48_x.x.x.x.zip`
   - For .NET 6
     - `FolderTaskbar_NET60_x.x.x.x.zip`
-2. Extract the downloaded file to a any location of your choice.
-3. Launch `FolderTaskbar.exe`.
+2. Right-click on the zip, select Properties, check `UnBlock` and close with the OK button.
+3. Extract the zip and place it in the desired location.
+4. Launch `FolderTaskbar.exe`.
 
 # Uninstall
 
