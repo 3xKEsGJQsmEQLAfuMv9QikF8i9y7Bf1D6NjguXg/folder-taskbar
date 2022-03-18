@@ -13,8 +13,9 @@ Windows 11のタスクバーの補助として使用します。
     - `FolderTaskbar_NetFW48_x.x.x.x.zip`
   - .NET 6用
     - `FolderTaskbar_NET60_x.x.x.x.zip`
-2. ダウンロードファイルを任意の場所に展開します。
-3. `FolderTaskbar.exe`を起動します。
+2. zipを右クリックし、プロパティを選択し、「許可する」（ブロックの解除）にチェックを入れ、OKボタンで閉じます。
+3. ZIPを解凍し、任意の場所に配置します。
+4. `FolderTaskbar.exe`を起動します。
 
 # アンインストール
 
